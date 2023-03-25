@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/PetSimX2023Scripts/PetHubX/blob/main/PetHubX.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSimX2023Scripts/PetHubX/main/PetHubX.lua"))()
